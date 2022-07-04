@@ -10,4 +10,5 @@
       </configuration>
     </facet>
   </component>
+  <component name="TestModuleProperties" production-module="MineCraftDefaultProject.MineStar-Plugin-API.main" />
 </module>

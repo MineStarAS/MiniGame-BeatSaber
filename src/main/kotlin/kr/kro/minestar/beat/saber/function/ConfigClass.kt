@@ -1,6 +1,6 @@
-package kr.kro.minestar.pack.function
+package kr.kro.minestar.beat.saber.function
 
-import kr.kro.minestar.pack.Main.Companion.plugin
+import kr.kro.minestar.beat.saber.Main.Companion.plugin
 import org.bukkit.configuration.file.YamlConfiguration
 import java.io.File
 

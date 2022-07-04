@@ -4,9 +4,11 @@
     <facet type="minecraft" name="Minecraft">
       <configuration>
         <autoDetectTypes>
+          <platformType>PAPER</platformType>
           <platformType>ADVENTURE</platformType>
         </autoDetectTypes>
       </configuration>
     </facet>
   </component>
+  <component name="TestModuleProperties" production-module="MineCraftDefaultProject.MineStar-Plugin.main" />
 </module>
